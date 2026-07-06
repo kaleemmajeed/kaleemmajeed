@@ -1,112 +1,97 @@
-# <p align="center">⚡ KALEEM MAJEED ⚡</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=KALEEM+MAJEED;UNITY+GAME+DEVELOPER;AI+ENTHUSIAST" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&width=900&lines=Initializing+System...;Access+Granted;Unity+Game+Developer;AI+%7C+C%23+%7C+Game+Systems;Zombie+Infection+Simulator"/>
+  <img src="https://img.shields.io/badge/GAME_DEVELOPER-000000?style=for-the-badge&logo=unity&logoColor=00FF41&labelColor=000000" />
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:000000&height=220&text=KALEEM%20MAJEED&fontColor=39FF14&fontSize=48&animation=fadeIn&desc=GAME%20DEVELOPER%20%7C%20AI%20ENTHUSIAST"/>
+  <img src="https://img.shields.io/badge/status-online-00FF41?style=flat-square&labelColor=000000" />
+  <img src="https://img.shields.io/badge/build-passing-00FF41?style=flat-square&labelColor=000000" />
+  <img src="https://img.shields.io/badge/coffee-100%25-00FF41?style=flat-square&labelColor=000000" />
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=kaleemmajeed&style=for-the-badge&color=brightgreen"/>
-<img src="https://img.shields.io/github/followers/kaleemmajeed?style=for-the-badge&color=brightgreen"/>
-</p>
-
-# > whoami
+---
 
 ```bash
-Name        : Kaleem Majeed
-Role        : Unity Game Developer
-Language    : C#
-Focus       : AI Gameplay, NPC Systems
-Project     : Zombie Infection Simulator
-Location    : Pakistan
+terminal@kaleemmajeed:~$ whoami
 ```
-
-# > tech_stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=unity,cs,cpp,git,github,vscode,blender,figma"/>
-</p>
-
-# > current_mission
-
-- Build immersive AI-powered games
-- Create scalable gameplay systems
-- Improve performance and clean architecture
-- Publish Zombie Infection Simulator
-
-# > github_stats
-
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kaleemmajeed&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaleemmajeed&layout=compact&theme=chartreuse-dark&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=kaleemmajeed&theme=chartreuse-dark&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaleemmajeed&theme=github_dark"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kaleemmajeed&theme=chartreuse-dark&hide_border=true"/>
-</p>
-
-# > trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=kaleemmajeed&theme=matrix&no-frame=true&column=7"/>
-</p>
-
-# > snake_animation
-
-```markdown
-# > system_status
+> **Kaleem Majeed**
 
 ```bash
-████████████████████ 100%
+terminal@kaleemmajeed:~$ role
+```
+> Unity Game Developer
 
-STATUS      : ONLINE
-ROLE        : Unity Game Developer
-ENGINE      : Unity 6
-LANGUAGE    : C#
-AI          : ENABLED
-MISSION     : Build AAA Games
-PROJECT     : Zombie Infection Simulator
-# Enable GitHub Actions, then use:
-![](https://raw.githubusercontent.com/kaleemmajeed/kaleemmajeed/output/github-contribution-grid-snake-dark.svg)
+```bash
+terminal@kaleemmajeed:~$ mission
+```
+> Building immersive games and AI driven systems.
+
+```bash
+terminal@kaleemmajeed:~$ status
+```
+> Always coding · Always learning · Always improving █
+
+---
+
+### `> TECH STACK`
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/AI%20%26%20NPC-000000?style=for-the-badge&logo=brain&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Gameplay-000000?style=for-the-badge&logo=gamepad&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Design-000000?style=for-the-badge&logo=figma&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Databases-000000?style=for-the-badge&logo=sqlite&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF41" />
+</p>
+
+---
+
+### `> SYSTEM STATUS`
+
+```
+CODING       ██████████████████████████████████████████████░░  98%
+FOCUS        █████████████████████████████████████████████░░░  95%
+CREATIVITY   ███████████████████████████████████████████░░░░░  90%
+DEBUGGING    ██████████████████████████████████████████░░░░░░  85%
+COFFEE       ██████████████████████████████████████████████████ 101%
 ```
 
-# > featured_project
+---
 
-## Zombie Infection Simulator
-- AI NPC Behaviour
-- FPS Gameplay
-- Infection Simulation
-- Viking Village Environment
-- Health & Inventory
-- Interactive UI
+### `> CURRENT PROJECT`
 
-# > terminal
+**☣ ZOMBIE INFECTION SIMULATOR**
+`AI DRIVEN` · `FPS GAME` · `SURVIVAL` · `SIMULATION`
+Status: **[ IN DEVELOPMENT ]**
 
-```csharp
-while(true)
-{
-    Learn();
-    Code();
-    Test();
-    Build();
-    Commit();
-    Push();
-}
-```
+---
 
-> "Code. Debug. Repeat."
+### `> CONNECT`
+
+<p align="left">
+  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41" />
+  </a>
+</p>
+
+---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:00ff41,100:000000&height=150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=00FF41" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
+</p>
+
+<p align="center"><i>// end of transmission</i></p>
