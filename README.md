@@ -73,13 +73,13 @@ Status: **[ IN DEVELOPMENT ]**
 ### `> CONNECT`
 
 <p align="left">
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+  <a href="https://github.com/kaleemmajeed" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/kaleemmajeed" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:kaleemmajeed98@gmail.com.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41" />
   </a>
 </p>
